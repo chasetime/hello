@@ -1,2 +1,4 @@
 # hello
-just another responsitory
+
+I like freecodecamp!
+I like computer!
